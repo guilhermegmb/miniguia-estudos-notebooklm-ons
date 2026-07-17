@@ -1,6 +1,6 @@
 # miniguia-estudos-notebooklm-ons
 desafio da DIO
-Plano do Projeto: Previsão de Carga Elétrica com IA para o Desafio DIO/Bradesco
+Plano do Projeto: Previsão de Carga Elétrica com IA para o Desafio DIO
 1. Contexto e Objetivos
 1.1 Contexto
 Este projeto visa atender ao desafio da DIO em parceria com o Bradesco, que busca profissionais com perfil de destaque no mercado, especialmente para vagas de análise de carteira de investimento. A proposta é desenvolver um caderno temático no NotebookLM, utilizando a Inteligência Artificial como ferramenta de aprendizagem ativa, e documentar todo o processo em um repositório GitHub.
